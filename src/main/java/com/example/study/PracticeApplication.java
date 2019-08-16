@@ -3,6 +3,9 @@ package com.example.study;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author lixiaoxiang
+ */
 @SpringBootApplication
 public class PracticeApplication {
 
