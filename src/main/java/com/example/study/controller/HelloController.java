@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     @GetMapping
-    public String hello() {
+    public Object hello() {
 
         return "this is worked";
     }
